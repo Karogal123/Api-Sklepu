@@ -1,2 +1,2 @@
 # Studia
-Projekty ze studiów
+Projekt na studia
